@@ -1,5 +1,5 @@
 {
-    "name": "game - Copy",
+    "name": "game",
     "description": "",
     "dependencies": {
         "core": "*",
